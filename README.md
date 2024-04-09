@@ -1,6 +1,6 @@
 # Web-design
 
-## To view download the milestone5 folder 
+## To view, download the milestone5 folder 
 
 ## Once downloaded open the ```index.html``` file
 
