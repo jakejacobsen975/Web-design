@@ -1,4 +1,5 @@
 # Web-design
+![Screenshot 2024-04-10 172836](https://github.com/jakejacobsen975/Web-design/assets/122470500/8a88cdf7-6d26-425b-9bd7-cace6d307d76)
 
 ## Lesser Known St. George Hikes
 ### Welcome to the Lesser Known St. George Hikes project!
@@ -35,3 +36,6 @@ Find links to maps, community forums, and conservation organizations to enrich y
 ## Technologies Used
 HTML
 CSS
+![Screenshot 2024-04-10 172858](https://github.com/jakejacobsen975/Web-design/assets/122470500/33af8efa-13c5-4f67-900b-fbb5ea5763e4)
+
+
