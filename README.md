@@ -36,6 +36,7 @@ Find links to maps, community forums, and conservation organizations to enrich y
 ## Technologies Used
 HTML
 CSS
-![Screenshot 2024-04-10 172858](https://github.com/jakejacobsen975/Web-design/assets/122470500/33af8efa-13c5-4f67-900b-fbb5ea5763e4)
+
+![Screenshot 2024-04-10 173035](https://github.com/jakejacobsen975/Web-design/assets/122470500/895da990-2f78-41f4-aff6-43a05279ef46)
 
 
