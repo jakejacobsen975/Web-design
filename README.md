@@ -11,7 +11,7 @@ To view the project, follow these simple steps:
 
 ### Download the Project Files:
 
-Download the "Web-design" folder from the repository or you can clone the repository with the following command.
+Download the "milestone5" folder from the repository or you can clone the repository with the following command.
 ```
 git clone https://github.com/jakejacobsen975/Web-design.git
 ```
