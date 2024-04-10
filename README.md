@@ -17,13 +17,17 @@ Open the HTML File:
 Once downloaded, navigate to the "milestone5" folder and open the index.html file in your preferred web browser.
 Features
 ## Interactive Interface: 
-Explore various sections highlighting different aspects of St. George's hiking experiences.
+Dive into various sections that highlight the diverse hiking experiences available in St. George.
+Engage with interactive elements to learn more about each hiking destination.
 ## Informative Content: 
-Learn about the unique features of each hiking destination through engaging descriptions.
+Discover the unique characteristics of each hiking spot through detailed and captivating descriptions.
+Gain insights into the natural beauty and attractions of the St. George area's lesser-known trails.
 ## Easy Navigation:
-Access different pages of the website via the navigation menu.
+Seamlessly navigate through different pages of the website using the intuitive navigation menu.
+Enjoy a user-friendly browsing experience designed for effortless exploration.
 ## Useful Resources: 
-Find links to external resources for further exploration and support.
+Access valuable external resources that enhance your hiking adventures and provide additional support.
+Find links to maps, community forums, and conservation organizations to enrich your outdoor experiences.
 ## Technologies Used
 HTML
 CSS
